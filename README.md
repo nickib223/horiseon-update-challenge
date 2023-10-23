@@ -16,9 +16,9 @@ N/A
 
 This project can be used to guide other projects' steps in improving search engine optimization through accessibility standards. It can also be used to provide information for the company Horiseon and their role in Reputation Management. 
 
-'''md
-![screenshot of project](/assets/images/Screenshot%202023-10-22%20204420.png)
-'''
+
+![screenshot of Horiseon webpage](https://github.com/nickib223/horiseon-update-challenge/assets/146459728/fe3f5001-5eea-4bd3-ace3-46566e52bffc)
+
 
 ## Credits
 
@@ -29,6 +29,8 @@ https://www.semrush.com/blog/semantic-html5-guide/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+https://medium.com/@justynagolawska/how-to-easily-add-screenshots-into-your-readme-file-on-github-d806a01d6ffd
 
 ## License
 
